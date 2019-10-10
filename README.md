@@ -1,0 +1,2 @@
+# Writer-Type
+pure Javascript 
